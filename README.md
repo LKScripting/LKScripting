@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LKScripting
+- 👀 I’m interested in Roblox Lua Coding
+- 🌱 I’m currently learning Lua But i am happy to help with anything related to coding
+- 💞️ I’m looking to collaborate on Making Games
+- 📫 How to reach me 7ate9ate11ate22@gmail.com
